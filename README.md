@@ -1,9 +1,9 @@
 # AWS Cloud Infrastructure: EC2 Web Server Automation & Linux Administration
 
 ## Table of Contents
-- [Introduction to Cloud Compute & Automation](#-introduction-to-cloud-compute--automation)
-- [Project Overview](#-project-overview)
-- [Objective](#-objective)
+- [Introduction to Cloud Compute & Automation](#introduction-to-cloud-compute--automation)
+- [Project Overview](#project-overview)
+- [Objective](#objective)
 - [System Specifications & Provisioning Baseline](#️-system-specifications--provisioning-baseline)
 - [Deployment & Traffic Architecture (ASCII Flowchart)](#-deployment--traffic-architecture)
 - [Deployment Methodology](#-deployment-methodology)
@@ -14,8 +14,8 @@
   - [Phase 5: Instance Initialization & HTTP Endpoint Validation](#phase-5-instance-initialization--http-endpoint-validation)
   - [Phase 6: Remote SSH Administration & Terminal File Inspection](#phase-6-remote-ssh-administration--terminal-file-inspection)
   - [Phase 7: Graceful Host Shutdown & Safe Resource Decommissioning](#phase-7-graceful-host-shutdown--safe-resource-decommissioning)
-- [Operational Relevance & Cloud Hygiene](#-operational-relevance--cloud-hygiene)
-- [Ethical Guidelines & Disclaimer](#️-ethical-guidelines--disclaimer)
+- [Operational Relevance & Cloud Hygiene](#operational-relevance--cloud-hygiene)
+- [Ethical Guidelines & Disclaimer](#️ethical-guidelines--disclaimer)
 
 ---
 
