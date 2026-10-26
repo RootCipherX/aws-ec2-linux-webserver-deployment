@@ -104,7 +104,7 @@ To deploy, automate, manage, and safely decommission a cloud-hosted Linux web se
 
 ---
 
-## 🚀 Deployment Methodology
+## Deployment Methodology
 
 ### Phase 1: MFA Root Authentication & EC2 Dashboard Navigation
 
@@ -225,7 +225,7 @@ yum update -y
 yum install -y httpd
 systemctl start httpd
 systemctl enable httpd
-echo "<h1><center>Welcome to My AWS Webserver</center></h1>" > /var/www/html/index.html
+echo "<h1><center>Welcome to My AWS Webserver<br>@RootCipherX</center></h1>" > /var/www/html/index.html
 ```
 
 #### Script Execution Breakdown
